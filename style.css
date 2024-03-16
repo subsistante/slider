@@ -160,14 +160,14 @@ body {
 }
 .content__left h1 {
   position: absolute;
-  top: 50%;
+  top: 55%;
   margin-top: -3vw;
   text-align: center;
   font-family: oswald;
   font-size: 5vw;
   height: 10vw;
   opacity: 1;
-  color: #fff;
+  color: #00;
   width: 100%;
   letter-spacing: 0.15em;
   line-height: 0.6;
