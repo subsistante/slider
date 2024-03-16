@@ -234,3 +234,5 @@ body {
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
 }
+.background-image {
+  position: 100 px
