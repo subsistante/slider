@@ -159,7 +159,6 @@ body {
   background-color: rgba(0, 0, 0, 0.1);
 }
 .content__left h1 {
-  background-image: url('https://top10a.ru/wp-content/uploads/2020/01/iwsfp0yhi-scaled.jpg');
   position: absolute;
   top: 50%;
   margin-top: -3vw;
@@ -235,5 +234,5 @@ body {
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
 }
-.background-image {
-  position: 100 px
+.h1 {
+ background-image: url('https://top10a.ru/wp-content/uploads/2020/01/iwsfp0yhi-scaled.jpg');
